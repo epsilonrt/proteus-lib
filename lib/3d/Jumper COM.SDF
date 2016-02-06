@@ -1,0 +1,28 @@
+ISIS SCHEMATIC DESCRIPTION FORMAT 6.1
+=====================================
+Design:   D:\Documents and Settings\Belgitaes\Escritorio\JUMPERS\Jumper COM.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  27/05/07
+Modified: 28/05/07
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,1    
+J1,"JUMPER COM","JUMPER COM",EID=5,PACKAGE=JUMPER,ROFF=100M,RON=0.01,STATE=0,TSWITCH=1m
+
+*NETLIST,3    
+#00000,1
+J1,PS,2
+
+#00001,1
+J1,PS,1
+
+#00002,1
+J1,PS,COM
+
+*GATES,0    
+

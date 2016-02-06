@@ -1,0 +1,7 @@
+TYPE=MODEL
+File=Jumper COM.3ds
+NAME=Merged
+ANGLE=00
+SCALE=1in
+X=1.4
+Y=  -2.70

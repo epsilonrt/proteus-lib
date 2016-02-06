@@ -1,0 +1,43 @@
+ISIS SCHEMATIC DESCRIPTION FORMAT 6.1
+=====================================
+Design:   D:\Documents and Settings\Belgitaes\Escritorio\Smart Card 3D\SMART CARD.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  06/05/07
+Modified: 30/05/07
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,1    
+S1,"SMART CARD","SMART CARD",EID=5,PACKAGE="SMART CARD"
+
+*NETLIST,8    
+#00000,1
+S1,PS,C8
+
+#00001,1
+S1,PS,C7
+
+#00002,1
+S1,PS,C5
+
+#00003,1
+S1,PS,C6
+
+#00004,1
+S1,PS,C4
+
+#00005,1
+S1,PS,C3
+
+#00006,1
+S1,PS,C2
+
+#00007,1
+S1,PS,C1
+
+*GATES,0    
+
