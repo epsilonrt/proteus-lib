@@ -19,7 +19,7 @@ En plus des librairies, PROTEUS fournit des modèles de PCB (templates en anglai
         git clone https://github.com/epsilonrt/proteus-lib.git
 
 3. Lancez ISIS et ajouter les chemins (Menu : `Système>Définir chemins...`) de votre dossier `proteus-lib/lib/bts` dans la liste «Dossiers des bibliothèques», de votre dossier `proteus-lib/templates` dans «Dossiers des gabarits » et de votre dossier `proteus-lib/lib/spice` dans «Dossiers des modèles de simulation ».
-** <IMPORTANT> Placez ces chemins en première position dans la liste conformément à l'image ci-dessous** :
+**<IMPORTANT> Placez ces chemins en première position dans la liste conformément à l'image ci-dessous** :
 ![Image 1](images/img1.png)
 4. Faites de même dans ARES pour les dossiers `proteus-lib/lib/bts` et `proteus-lib/lib/3d` dans «Dossiers des bibliothèques » et `proteus-lib/templates` dans «Dossiers des gabarits » (En effet, les chemins ne sont pas communs entre ISIS et ARES…) :
 ![Image 2](images/img2.png)
